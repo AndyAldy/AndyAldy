@@ -15,7 +15,7 @@ Currently, I'm working solo on my dream project: **Ruins Legacy** 🎮
 ### About Me
 
 - I love coding at Konnichiwa Cafe ☕  
-- I work on both frontend & backend—all by myself  
+- I work on both frontend & backend 
 - Always excited to learn, create, and share
 
 ---
