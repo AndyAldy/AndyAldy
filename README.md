@@ -22,7 +22,7 @@ Currently, I'm working solo on my dream project: **Ruins Legacy** 🎮
 
 ### Connect with Me
 
-[GitHub](https://github.com/AndyAldy) &nbsp;|&nbsp; [Instagram](https://www.instagram.com/_andyaldy/) &nbsp;|&nbsp; [Facebook](https://www.facebook.com/ovobwebwebwe.ovobwebwebwe/)
+[GitHub](https://github.com/AndyAldy) &nbsp;|&nbsp; [Instagram](https://www.instagram.com/_andyaldy/) &nbsp;|&nbsp; [Facebook](https://www.facebook.com/ovobwebwebwe.ovobwebwebwe/) &nbsp;|&nbsp; [Portofolio](https://portofolioandy.vercel.app/) &nbsp;|&nbsp;
 
 ---
 
