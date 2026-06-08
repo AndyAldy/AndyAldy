@@ -6,10 +6,7 @@ Currently, I'm working solo on my dream project: **Ruins Legacy** 🎮
 ---
 
 ### 🛠️ My Top Skills
-- **PHP**  
-- **HTML & CSS**  
-- **Flutter / Dart** (Frontend & Backend)  
-
+You curious with my skills? click my portofolio at the bottom😏
 ---
 
 ### About Me
