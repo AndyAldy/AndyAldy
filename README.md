@@ -1,7 +1,6 @@
 # Hi, I'm Andy Aldyansyah 👋
 
 I'm an IT college student passionate about building things—especially games and web applications.  
-Currently, I'm working solo on my dream project: **Ruins Legacy** 🎮
 
 ---
 
