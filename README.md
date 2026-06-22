@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Wails-A51C26?style=for-the-badge&logo=wails&logoColor=red" alt="Wails"/>
+  <img src="https://img.shields.io/badge/Wails-EA0000?style=for-the-badge&logo=wails&logoColor=white" alt="Wails" />
 </p>
 
 **Database, IoT & Tools** <p align="left">
