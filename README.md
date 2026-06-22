@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently an **Informatics Engineering** student (Semester 5).
+- 🎓 I'm currently an **Informatics Engineering** student (Semester 6).
 - 🔭 I’m actively working on mobile applications (like **GrowME**) using **Flutter & Dart**, as well as exploring **IoT projects** (ESP32 & Arduino).
 - 💻 I enjoy working on both **frontend & backend** development, and I have a keen interest in cybersecurity (CTF) and game mechanics.
 - ☕ Fun fact: I love coding at **Konnichiwa Cafe**, and when I'm away from the keyboard, I'm usually maintaining or riding my motorcycles!
